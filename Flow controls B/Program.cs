@@ -32,6 +32,7 @@ DecidePlayerAndMonsterHealth();
 DecideTurn();
 Attack();
 CalculateDamage();
+ChangeTurn();
 
 void WelcomePlayer()
 
@@ -95,4 +96,16 @@ int CalculateDamage()
 {
     int damage = new Random().Next(minDamage, maxDamage + 1);
     return damage;
+}
+
+void ChangeTurn()
+{
+    if (isPlayerTurn)
+    {
+        isPlayerTurn = false;
+    }
+    else
+    {
+        isPlayerTurn= true;
+    }
 }
