@@ -1,0 +1,15 @@
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\bin\Debug\net6.0\Flow controls B.exe
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\bin\Debug\net6.0\Flow controls B.deps.json
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\bin\Debug\net6.0\Flow controls B.runtimeconfig.json
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\bin\Debug\net6.0\Flow controls B.dll
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\bin\Debug\net6.0\ref\Flow controls B.dll
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\bin\Debug\net6.0\Flow controls B.pdb
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\Flow controls B.csproj.AssemblyReference.cache
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\Flow controls B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\Flow controls B.AssemblyInfoInputs.cache
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\Flow controls B.AssemblyInfo.cs
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\Flow controls B.csproj.CoreCompileInputs.cache
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\Flow controls B.dll
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\ref\Flow controls B.dll
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\Flow controls B.pdb
+C:\Users\Swiss Frankie\source\repos\Flow controls B\Flow controls B\obj\Debug\net6.0\Flow controls B.genruntimeconfig.cache
